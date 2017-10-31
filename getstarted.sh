@@ -35,7 +35,7 @@ git clone https://github.com/einokupias/palvelinten-hallinta.git
 
 sudo cp -r palvelinten-hallinta/puppet /etc/
 
-sudo puppet apply -e 'class {apache:='
+sudo puppet apply -e 'class {apache:}'
 
 
 
