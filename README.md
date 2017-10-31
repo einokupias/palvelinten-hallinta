@@ -1,7 +1,7 @@
 Added some Puppet stuff
 
 # palvelinten-hallinta
-Fucking around in Puppet
+Learning Puppet
 
 LinuxNinja Skillz learned in Haaga-Helia Uni of Applied Science
 Teacher: Tero Karvinen
