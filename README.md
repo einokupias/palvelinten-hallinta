@@ -7,4 +7,4 @@ LinuxNinja Skillz learned in Haaga-Helia Uni of Applied Science
 Teacher: Tero Karvinen
 http://terokarvinen.com/2017/aikataulu-palvelinten-hallinta-ict4tn022-3-5-op-uusi-ops-loppusyksy-2017-p5
 
-wget https://raw.githubusercontent.com/einokupias/palvelinten-hallinta/master/getstarted.sh
+wget https://kupias.net/getstarted.sh
