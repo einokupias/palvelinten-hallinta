@@ -32,6 +32,9 @@ sudo apt-get -y install git puppet tree
 sleep 2
 
 git clone https://github.com/einokupias/palvelinten-hallinta.git
+git config --global user.name "Eino Kupias"
+git config --global user.email "kupias@hotmail.com"
+git config --global credential.helper "cache --timeout=3600"
 
 sudo cp -r palvelinten-hallinta/puppet /etc/
 
