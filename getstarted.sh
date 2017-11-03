@@ -38,7 +38,5 @@ git config --global credential.helper "cache --timeout=3600"
 
 sudo cp -r palvelinten-hallinta/puppet /etc/
 
-sudo puppet apply -e 'class {apache:}'
-
 
 
